@@ -1,4 +1,5 @@
 # ECE 387 - RF Transmitter and Receiver
+# Aidan Quimby
 
 This is my ECE 387 Midterm Presentation on Radio Frequency Transmitters and Receivers.
 
